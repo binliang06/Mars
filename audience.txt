@@ -1,8 +1,9 @@
-<<<<<<< HEAD
+
+WHO THIS COURSE IS FOR
+======================
+=======
 * AUDIENCE 
 =======
 AUDIENCE 
->>>>>>> b6d07381cbeb54a36cbee777aaaac0e87cd27786
 
 This course is for anyone who wants to learn Git. 
-No prior experience is required.
